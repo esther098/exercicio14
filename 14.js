@@ -3,6 +3,6 @@ function Mostrar(){
     if(!nome){alert("Digite seu nome ");
     }else{
 
-    alert("Seu nome é: "+ nome);
+    alert("Olá "+ nome +", seja bem vindo");
 }
 }
